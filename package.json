@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://somesite.ru",
     "email": "meekwest@mail.ru"
+  },
+  "dependencies": {
+    "axios": "^0.26.0"
   }
 }
